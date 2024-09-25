@@ -2,7 +2,7 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
+- Objetivo12
 - Objetivo2
 - Objetivo3
 

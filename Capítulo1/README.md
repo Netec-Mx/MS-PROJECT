@@ -2,9 +2,12 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo12
-- Objetivo2
-- Objetivo3
+
+- Cambiar la vista: Aprender a cambiar de la Vista de Gantt a la Vista de Gantt de Seguimiento.
+- Reportes de costos: Identificar el menú donde se encuentra la opción para visualizar el reporte de costos.
+- Reportes visuales: Localizar el menú que contiene los Reportes Visuales.
+- Hoja de recursos: Mostrar la hoja de recursos para gestionar la asignación de tareas.
+- Vista de línea de tiempo: Visualizar y ocultar la vista de línea de tiempo según las necesidades del proyecto.
 
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 

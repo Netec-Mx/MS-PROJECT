@@ -6,7 +6,7 @@ Al finalizar la práctica, será capaz de:
 - Mostrar tarea resumen.
 - Agregar una nota.
 - Programar una reunión recurrente.
-- 
+  
 ## Objetivo Visual 
 
 ![diagrama1](../images/4.0.jpg)

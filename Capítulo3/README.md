@@ -1,41 +1,30 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 3
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+Al finalizar la práctica, será capaz de:
+- Configurar todas las tareas existentes en modo automático.
+- Agregar una nueva tarea.
+- Configurar tareas automáticas.
+- Cambiar el modo de la nueva tarea de manual a automático.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/3.0.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 30 minutos.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+## Datos de Acceso:
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Project titulado “Ejercicio modulo 3. Modo manual y modo automatico” y realice las siguientes actividades:
+1.	Cambie las tareas a modo automático
+2.	Agregue una nueva tarea
+3.	Cambie las opciones  del archivo para que las nuevas tareas sean automáticas
+4.	Cambie el modo manual de la nueva tarea a modo automático
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/3.jpg)

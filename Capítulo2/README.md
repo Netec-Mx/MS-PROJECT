@@ -9,9 +9,8 @@ Al finalizar la práctica, será capaz de:
 - Crear un nuevo calendario.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/2.jpg)
 
 ## Duración aproximada:
 - 30 minutos.
@@ -24,20 +23,19 @@ Agregar una tabla con la información que pueda requerir el participante durante
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Descripción de la tarea a realizar.
+1.	Abra un nuevo archivo llamado implementación del site
+2.	Vaya a la opción cambiar el tiempo del proyecto y en el calendario estándar
+3.	Introduzca los siguientes días festivos al calendario:
+a.	Navidad
+b.	Año nuevo
+c.	Día de la independencia
+d.	Día de la madre
+•	Si estos días festivos coinciden con días no laborables, prográmelos al siguiente día laborable
+4.	Cambie el horario de trabajo del Calendario Estándar con el horario de 8:00 a 18:00 horas con comida de 13:00 a 14:00 horas
+5.	Cree un nuevo calendario que sea copia del calendario base en el cual los días laborables sean de miércoles a Domingo, llame a este calendario “Calendario de instalación”
+6.	Modifique la fecha de inicio del proyecto para que comience el primer lunes del siguiente mes
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/2.jpg)

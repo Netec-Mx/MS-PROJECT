@@ -16,15 +16,12 @@ Al finalizar la práctica, será capaz de:
 - 30 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 ### Tarea. Descripción de la tarea a realizar.
-1.	Abra un nuevo archivo llamado implementación del site
+1.	Abra el archivo "Ejercicio modulo 2. Instalación Site calendarios"
 2.	Vaya a la opción cambiar el tiempo del proyecto y en el calendario estándar
 3.	Introduzca los siguientes días festivos al calendario:
 a.	Navidad

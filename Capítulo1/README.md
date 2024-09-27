@@ -21,7 +21,7 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Abra el archivo de Project titulado “Ejercicio módulo 1” y realice las siguientes actividades:
+### Tarea. Abra el archivo de Project titulado “Ejercicio módulo 1” y realice las siguientes actividades:
 1.	Cambie la vista de Gantt a la Vista de Gantt de Seguimiento
 2.	¿En qué menú se encuentra la opción para visualizar el reporte de costos?
 3.	¿En qué menú se encuentran los Reportes Visuales?

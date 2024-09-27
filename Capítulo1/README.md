@@ -3,11 +3,11 @@
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
 
-- Cambiar la vista: Aprender a cambiar de la Vista de Gantt a la Vista de Gantt de Seguimiento.
-- Reportes de costos: Identificar el menú donde se encuentra la opción para visualizar el reporte de costos.
-- Reportes visuales: Localizar el menú que contiene los Reportes Visuales.
-- Hoja de recursos: Mostrar la hoja de recursos para gestionar la asignación de tareas.
-- Vista de línea de tiempo: Visualizar y ocultar la vista de línea de tiempo según las necesidades del proyecto.
+- Cambiar la vista.
+- Visualizar el reporte de costos.
+- Localizar el menú que contiene los Reportes Visuales.
+- Mostrar la hoja de recursos.
+- Visualizar y ocultar la vista de línea de tiempo.
 
 ## Objetivo Visual 
 

@@ -17,7 +17,7 @@ Al finalizar la práctica, será capaz de:
 - 80 minutos.
 
 ## Datos de Acceso:
-Se envía la IP, usuario y credencial para el acceso al escritorio remoto y a la cuenta de Microsoft 365.
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto y la cuenta de Microsoft 365.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->

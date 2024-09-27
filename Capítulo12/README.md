@@ -1,41 +1,31 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 12
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+Al finalizar la práctica, será capaz de:
+- Crear archivo maestro.
+- Vincular recursos compartidos.
+- Mostrar proyecto vinculado.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/12.1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 50 minutos.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+## Datos de Acceso:
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 12. Implementación site” e inserte el subproyecto “Ejercicio Modulo 12. Inauguración", a continuación realice las siguientes actividades:
+1.	Cree un archivo maestro 
+2.	Use la opción de recursos compartidos para vincular los dos proyectos
+3.	Abra el archivo que eligió como base
+4.	Muestre el proyecto vinculado con los recursos compartidos
+5.	Vincule las tareas de análisis y planeación
+6.	Actualice las tareas de análisis y planeación al 100% de avance en el documento maestro y observe como se modifican en el archivo “Ejercicio Modulo 12. Inauguración”
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/12.2.jpg)

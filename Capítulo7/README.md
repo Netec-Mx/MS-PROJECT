@@ -1,41 +1,36 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 7
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+Al finalizar la práctica, será capaz de:
+- Registrar duración y costo inicial.
+- Agregar recurso genérico.
+- Registrar duración y costo actualizado.
+- Agregar recurso de material.
+- Asignar horas de esfuerzo.
+- Registrar duración y costo final.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/7.1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 40 minutos.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+## Datos de Acceso:
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 7” y realice las siguientes actividades:
+1.	Anote la duración y el costo del proyecto
+2.	Agregue un recurso genérico llamado Pintor con costo de 80 pesos por persona, al 200% 
+3.	Asigne a este recurso la tarea 15
+4.	Anote la duración y el costo del proyecto
+5.	Agregue la Pintura con un costo de 40 pesos por galón
+6.	Asigne a ese recurso a la tarea 15 
+7.	En la tarea 7 al electricista 160 horas de esfuerzo
+8.	Anote la duración y el costo del proyecto
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/7.2.jpg)

@@ -1,4 +1,4 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 1
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

@@ -1,4 +1,4 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 2
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
@@ -14,7 +14,7 @@ Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es 
 ![diagrama1](../images/img1.png)
 
 ## Duración aproximada:
-- xx minutos.
+- 30 minutos.
 
 ## Tabla de ayuda:
 Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.

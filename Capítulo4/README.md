@@ -1,41 +1,30 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 4
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
-
+Al finalizar la práctica, será capaz de:
+- Agrupar tareas.
+- Mostrar tarea resumen.
+- Agregar una nota.
+- Programar una reunión recurrente.
+- 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/4.0.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 30 minutos.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+## Datos de Acceso:
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Project titulado “Ejercicio modulo 4. Crear EDT” y realice las siguientes actividades:
+1.	Este archivo tiene tareas que no están agrupadas en familia, configure el Archivo para que se vea similar a la imagen del resultado deseado
+2.	Debe mostrar las sangrías, los números de esquema y el nombre de la tarea resumen del proyecto
+3.	Agregue una nota en la tarea 2 en la que indique que: “Evitar estar expuestos al peligro por sismos, contaminación, incendios, explosión, inundación, radiaciones e interferencia de radar”
+4.	Agregue una reunión semanal de avance de las tareas con duración de una hora y que se lleve a cabo todos los jueves y termine después de 10 repeticiones.
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+![imagen resultado](../images/4.jpg)

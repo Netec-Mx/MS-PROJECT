@@ -1,41 +1,33 @@
-# Nombre del laboratorio 
+# Ejercicio Capítulo 5
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+Al finalizar la práctica, será capaz de:
+- Secuenciar tareas.
+- Mostrar la vista de Diagrama de Red tras secuenciar las tareas.
+- Ocultar tareas agrupadoras.
+- Reposicionar tareas.
+- Crear una plantilla para tareas críticas.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/5.0.jpg)
 
 ## Duración aproximada:
-- xx minutos.
+- 40 minutos.
 
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+## Datos de Acceso:
+Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 5” y realice las siguientes actividades:
+1.	Este archivo tiene tareas no tienen una secuencia
+2.	Agregue la secuencia en el archivo, use varios métodos para ingresar esta información
+3.	Una vez terminada la secuenciación de las tareas, despliegue la vista de Diagrama de Red
+4.	Configure su vista para que las tareas agrupadoras y la tarea resumen del proyecto no sea visible
+5.	Reposicione la tarea 26 para que se muestre arriba de la tarea 9 dentro del diagrama de red
+6.	Cree una plantilla para las tareas críticas que tenga los siguientes datos: ID, Nombre, Comienzo, Fin, Duración, % Completado y Costo
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+![imagen resultado](../images/5.jpg)

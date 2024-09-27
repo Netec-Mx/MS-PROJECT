@@ -16,7 +16,7 @@ Al finalizar la práctica, será capaz de:
 ## Duración aproximada:
 - 30 minutos.
 
-## Tabla de ayuda:
+## Datos de Acceso:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
@@ -29,5 +29,4 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 5.	Visualice y después oculte la vista de línea de tiempo
 
 ### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
 ![imagen resultado](../images/1.2.jpg)

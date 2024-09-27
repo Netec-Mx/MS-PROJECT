@@ -10,7 +10,7 @@ Al finalizar la práctica, será capaz de:
 
 ## Objetivo Visual 
 
-![diagrama1](../images/2.jpg)
+![diagrama1](../images/2.0.jpg)
 
 ## Duración aproximada:
 - 30 minutos.

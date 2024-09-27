@@ -1,10 +1,12 @@
 # Nombre del laboratorio 
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+Al finalizar la práctica, será capaz de:
+- Crear un nuevo archivo.
+- Modificar el calendario del proyecto.
+- Agregar días festivos.
+- Cambiar el horario laboral.
+- Crear un nuevo calendario.
 
 ## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 

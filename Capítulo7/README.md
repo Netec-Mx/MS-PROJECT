@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 7
+# Práctica. 7 Estimaciones de los paquetes de trabajo
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
@@ -20,16 +20,15 @@ Al finalizar la práctica, será capaz de:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 7” y realice las siguientes actividades:
-1.	Anote la duración y el costo del proyecto
-2.	Agregue un recurso genérico llamado Pintor con costo de 80 pesos por persona, al 200% 
-3.	Asigne a este recurso la tarea 15
-4.	Anote la duración y el costo del proyecto
-5.	Agregue la Pintura con un costo de 40 pesos por galón
-6.	Asigne a ese recurso a la tarea 15 
-7.	En la tarea 7 al electricista 160 horas de esfuerzo
-8.	Anote la duración y el costo del proyecto
+### Tarea 1. Abrir el archivo de Project titulado “Ejercicio Modulo 7” y realizar las siguientes actividades:
+1.	Anotar la duración y el costo del proyecto.
+2.	Agregar un recurso genérico llamado Pintor con costo de 80 pesos por persona, al 200%.
+3.	Asignar a este recurso la tarea 15.
+4.	Anotar la duración y el costo del proyecto.
+5.	Agregar la Pintura con un costo de 40 pesos por galón.
+6.	Asignar a ese recurso a la tarea 15. 
+7.	En la tarea 7, asignar al electricista 160 horas de esfuerzo.
+8.	Anotar la duración y el costo del proyecto.
 
 ### Resultado esperado
 

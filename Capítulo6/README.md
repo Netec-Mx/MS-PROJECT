@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 6
+# Práctica 6. Recursos del Proyecto
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
@@ -16,13 +16,11 @@ Al finalizar la práctica, será capaz de:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 6” y realice las siguientes actividades:
-1.	Agregue los siguientes recursos con la información proporcionada en el objeto visual
-2.	Asígnelos de acuerdo a la imagen del resultado esperado
+### Tarea 1. Abrir el archivo de Project titulado “Ejercicio Modulo 6” y realizar las siguientes actividades:
+1.	Agregar los siguientes recursos con la información proporcionada en el objeto visual.
+2.	Asígnar de acuerdo a la imagen del resultado esperado.
 
 ### Resultado esperado
-
 ![imagen resultado](../images/6.2.jpg)
 
 

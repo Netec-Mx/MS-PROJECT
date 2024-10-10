@@ -18,7 +18,7 @@ Al finalizar la práctica, será capaz de:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
-### Tarea. Abrir el archivo de Project titulado “Ejercicio Modulo 8” y realizar las siguientes actividades:
+### Tarea 1. Abrir el archivo de Project titulado “Ejercicio Modulo 8” y realizar las siguientes actividades:
 1.	Mostrar de manera gráfica y en la vista adecuada, la holgura de las tareas no críticas.
 2.	Observar las estadísticas de proyecto y anotar:
 - La fecha de inicio del proyecto_______________

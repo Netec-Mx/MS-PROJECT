@@ -1,10 +1,10 @@
-# Ejercicio Capítulo 12
+# Práctica 12. Múltiples proyectos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
 - Crear archivo maestro.
 - Vincular recursos compartidos.
-- Mostrar proyecto vinculado.
+- Mostrar el proyecto vinculado.
 
 ## Objetivo Visual 
 
@@ -17,14 +17,13 @@ Al finalizar la práctica, será capaz de:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea. Abra el archivo de Project titulado “Ejercicio Modulo 12. Implementación site” e inserte el subproyecto “Ejercicio Modulo 12. Inauguración", a continuación realice las siguientes actividades:
-1.	Cree un archivo maestro 
-2.	Use la opción de recursos compartidos para vincular los dos proyectos
-3.	Abra el archivo que eligió como base
-4.	Muestre el proyecto vinculado con los recursos compartidos
-5.	Vincule las tareas de análisis y planeación
-6.	Actualice las tareas de análisis y planeación al 100% de avance en el documento maestro y observe como se modifican en el archivo “Ejercicio Modulo 12. Inauguración”
+### Tarea 1. Abrir el archivo de Project titulado “Ejercicio Modulo 12. Implementación site” e insertar el subproyecto “Ejercicio Modulo 12. Inauguración", a continuación realizar las siguientes actividades:
+1.	Crear un archivo maestro. 
+2.	Usar la opción de recursos compartidos para vincular los dos proyectos.
+3.	Abrir el archivo que eligió como base.
+4.	Mostrar el proyecto vinculado con los recursos compartidos.
+5.	Vincular las tareas de análisis y planeación.
+6.	Actualizar las tareas de análisis y planeación al 100% de avance en el documento maestro y observar como se modifican en el archivo “Ejercicio Modulo 12. Inauguración”.
 
 ### Resultado esperado
 

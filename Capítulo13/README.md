@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 13
+# Práctica 13. Project para la web 
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
@@ -20,19 +20,19 @@ Al finalizar la práctica, será capaz de:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto y la cuenta de Microsoft 365.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
+
 ### Tarea 1. Abrir un proyecto.
-1. En Inicio de Project, seleccione el iniciador de aplicaciones (el cuadrado de puntos que hay en la parte superior izquierda de la página) y, después, seleccione Todas las aplicaciones. 
-2. Cerca de la parte superior, seleccione Buscar todas las aplicaciones, escriba Project y después busque la aplicación de Project Office en los resultados (tiene el icono de "P" de color blanco sobre verde). La aplicación que aparece justo debajo (con un icono de color púrpura) es Project Power App.
-3. Seleccione Project Power App para abrirla, o bien seleccione su menú contextual y elija una acción. Si tiene previsto abrir la aplicación con frecuencia, es una buena idea elegir Anclar al iniciador.
-4. Al abrir la aplicación, en la pestaña Proyectos, asegúrese de seleccionar la vista del sistema adecuada: la vista predeterminada es Mis proyectos activos, donde se muestra una lista de los proyectos que ha creado y que están en curso. Para abrir un proyecto de otra persona al que tenga acceso, seleccione la vista Todos los proyectos.
-5. Cuando vea el proyecto en la lista, seleccione su nombre para abrirlo.
+1. En Inicio de Project, seleccionar el iniciador de aplicaciones (el cuadrado de puntos que hay en la parte superior izquierda de la página) y, después, seleccionar Todas las aplicaciones. 
+2. Cerca de la parte superior, seleccionar Buscar todas las aplicaciones, escribir Project y después buscar la aplicación de Project Office en los resultados (tiene el icono de "P" de color blanco sobre verde). La aplicación que aparece justo debajo (con un icono de color púrpura) es Project Power App.
+3. Seleccionar Project Power App para abrirla, o bien seleccionar su menú contextual y elegir una acción. Si tiene previsto abrir la aplicación con frecuencia, es una buena idea elegir Anclar al iniciador.
+4. Al abrir la aplicación, en la pestaña Proyectos, asegurarse de seleccionar la vista del sistema adecuada: la vista predeterminada es Mis proyectos activos, donde se muestra una lista de los proyectos que ha creado y que están en curso. Para abrir un proyecto de otra persona al que tenga acceso, seleccione la vista Todos los proyectos.
+5. Al ver el proyecto en la lista, seleccionar su nombre para abrirlo.
 
 ### Tarea 2. Crear un nuevo proyecto.
-1. Cerca de la parte superior izquierda de la aplicación, seleccione Nuevo proyecto.
-2. Rellene los campos obligatorios en la pestaña General, luego realice una de las siguientes acciones:
-- Seleccione Guardar si quiere agregar tareas o cambiar otros detalles del nuevo proyecto antes de cerrarlo.
-- Seleccione Guardar y cerrar para cerrar ahora y volver más tarde para rellenar los detalles del proyecto.
+1. Cerca de la parte superior izquierda de la aplicación, seleccionar Nuevo proyecto.
+2. Rellenar los campos obligatorios en la pestaña General, luego realizar una de las siguientes acciones:
+- Seleccionar Guardar si quiere agregar tareas o cambiar otros detalles del nuevo proyecto antes de cerrarlo.
+- Seleccionar Guardar y cerrar para cerrar ahora y volver más tarde para rellenar los detalles del proyecto.
 
 ### Tarea 3. Anclar un proyecto de la lista de Recientes.
 1. En la lista Recientes de Project Power App se muestran siempre los proyectos más recientes que haya abierto en la herramienta. Para tener un proyecto a mano incluso si no aparece en una de las vistas, puede anclar los proyectos si aparecen en la lista de Recientes. Los elementos anclados aparecen en la lista Anclados, que está justo debajo de la lista de Recientes.

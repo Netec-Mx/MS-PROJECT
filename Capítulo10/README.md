@@ -28,7 +28,7 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 5.	La duración de esta tarea será de 10 días.
 6.	Esta actividad debe ser sucesora de la tarea “Control de accesos” y predecesora de la tarea “Colocar rieles”. Hacer las modificaciones necesarias.
 7.	Abrir las estadísticas y apuntar otra vez los datos mostrados.
-8.	La tarea “Colocar puerta de cristal con acceso biométrico” será responsabilidad de Ernesto Larrea, necesita una puerta de cristal con un costo de $2,000.00 y el sistema biométrico con un costo de $4,000.00 Agregar los recursos a la tarea.
+8.	La tarea “Colocar puerta de cristal con acceso biométrico” será responsabilidad de Ernesto Larrea, necesita una puerta de cristal con un costo de $2,000.00 y el sistema biométrico con un costo de $4,000.00. Agregar los recursos a la tarea.
 9.	Abrir la tabla “Costos” y anotar el costo total de la tarea agregada.
 10.	Abrir la tabla “Variación” y anotar la variación.
 11.	Abrir la tabla “Trabajo” y anotar la variación.

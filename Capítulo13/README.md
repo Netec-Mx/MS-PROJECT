@@ -35,39 +35,40 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto y la c
 - Seleccionar Guardar y cerrar para cerrar ahora y volver más tarde para rellenar los detalles del proyecto.
 
 ### Tarea 3. Anclar un proyecto de la lista de Recientes.
-1. En la lista Recientes de Project Power App se muestran siempre los proyectos más recientes que haya abierto en la herramienta. Para tener un proyecto a mano incluso si no aparece en una de las vistas, puede anclar los proyectos si aparecen en la lista de Recientes. Los elementos anclados aparecen en la lista Anclados, que está justo debajo de la lista de Recientes.
-2. En la parte izquierda, sobre las pestañas, seleccione Mapa del sitio para expandir el panel izquierdo (puede omitir este paso si ya está expandido).
-3. En el panel izquierdo, seleccione Recientes y, después, seleccione el icono de chincheta junto al proyecto que quiera anclar.
-4. El proyecto aparece ahora en Anclados y el icono de chincheta junto a él en la lista de Recientes cambia, selecciónelo de nuevo para desanclar el elemento.
+1. En la lista Recientes de Project Power App, se muestran siempre los proyectos más recientes que haya abierto en la herramienta. Para tener un proyecto a mano incluso si no aparece en una de las vistas, puede anclar los proyectos si aparecen en la lista de Recientes. Los elementos anclados aparecen en la lista Anclados, que está justo debajo de la lista de Recientes.
+2. En la parte izquierda, sobre las pestañas, seleccionar Mapa del sitio para expandir el panel izquierdo (puede omitir este paso si ya está expandido).
+3. En el panel izquierdo, seleccionar Recientes y, después, seleccionar el icono de chincheta junto al proyecto que quiera anclar.
+4. El proyecto aparece ahora en Anclados y el icono de chincheta junto a él en la lista de Recientes, cambia. Selecciónar nuevamente para desanclar el elemento.
 
 ### Tarea 4. Desanclar un proyecto de la lista Anclados .
-1. En la parte izquierda, sobre las pestañas, seleccione Mapa del sitio para expandir el panel izquierdo (puede omitir este paso si ya está expandido).
-2. En el panel izquierdo, seleccione Anclados y seleccione el icono a la izquierda del proyecto anclado.
+1. En la parte izquierda, sobre las pestañas, seleccionar Mapa del sitio para expandir el panel izquierdo (puede omitir este paso si ya está expandido).
+2. En el panel izquierdo, seleccionar Anclados y seleccionar el icono a la izquierda del proyecto anclado.
 3. El proyecto desaparece de la lista de Anclados. Aún puede examinar el proyecto, buscarlo o abrirlo desde cualquier vista que lo muestre.
 
 ### Tarea 5. Agregar tareas y tareas de Resumen.
-1. Seleccione Agregar nueva tarea y escriba un nombre de tarea. Luego, presione Entrar.
-2. Escriba otro nombre de tarea y presione entrar de nuevo hasta que tenga una lista completa de tareas.
-3. Para aplicar sangría a las tareas en tareas de Resumen, seleccione los tres puntos verticales por el nombre de la tarea y elija crear subtarea. Sugerencias:
+1. Seleccionar Agregar nueva tarea y escribir un nombre de tarea. Luego, presione Entrar.
+2. Escribir otro nombre de tarea y presionar entrar de nuevo hasta que tenga una lista completa de tareas.
+3. Para aplicar sangría a las tareas, en tareas de Resumen, seleccionar los tres puntos verticales que se hallan por el nombre de la tarea y elegir crear subtarea.
+- Sugerencias:
 - Para seleccionar más de una tarea, seleccione una tarea, mantenga presionada la tecla Ctrl y, a continuación, seleccione otra tarea.
 - También puede elegir promover subtarea para desplazar tareas desde tareas de resumen.
 
 ### Tarea 6. Asignar tareas
 1. Para asignar tareas, el proyecto debe asociarse con un grupo de Office 365. Si es el propietario del proyecto, puede:
-- Agregue el proyecto a un grupo seleccionando miembros del grupo en la parte superior del proyecto.
-- Agregue o quite personas del grupo del proyecto.
+- Agregar el proyecto a un grupo seleccionando de miembros del grupo en la parte superior del proyecto.
+- Agregar o quitar personas del grupo del proyecto.
 2. Para asignar una tarea:
-- En la columna asignada a de una tarea, seleccione el icono de la persona.
-- Elija un miembro del equipo de la lista o escriba el texto para buscar uno.
+- En la columna asignada de una tarea, seleccionar el icono de la persona.
+- Elegir un miembro del equipo de la lista o escribir el texto para buscar uno.
 
 ### Tarea 7. Agregar duración y columnas
 A menudo es más fácil empezar a construir el proyecto con la duración.
-1. En la columna duración de una tarea, escriba el número de días que cree que tendrá que hacer.
-- Si desea usar una unidad de tiempo diferente, escriba un número más la palabra horas, semanaso meses.
-- Si desea que la tarea aparezca como un hito en la vista escala de tiempo , escriba 0 días en la columna duración .
-2. Presione entrar para ir al campo duración de la tarea siguiente y continuar especificando duraciones.
+1. En la columna duración de una tarea, escribir el número de días que crea que tendrá que hacer.
+- Si desea usar una unidad de tiempo diferente, escribir un número más la palabra horas, semanas o meses.
+- Si desea que la tarea aparezca como un hito en la vista escala de tiempo, escribir 0 días en la columna duración.
+2. Presionar entrar para ir al campo duración de la tarea siguiente y continuar especificando duraciones.
 - Nota: No se puede especificar la duración de las tareas de resumen.
-- Puede continuar agregando más detalles al proyecto agregando columnas. Junto a encabezado de columna duración, elija Agregar columna.
+- Puede continuar agregando más detalles al proyecto agregando columnas. Junto a encabezado de columna duración, elegir Agregar columna.
   
 ### Resultado esperado
 

@@ -35,7 +35,7 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto y la c
 - Seleccionar Guardar y cerrar para cerrar ahora y volver más tarde para rellenar los detalles del proyecto.
 
 ### Tarea 3. Anclar un proyecto de la lista de Recientes.
-1. En la lista Recientes de Project Power App, se muestran siempre los proyectos más recientes que haya abierto en la herramienta. Para tener un proyecto a mano incluso si no aparece en una de las vistas, puede anclar los proyectos si aparecen en la lista de Recientes. Los elementos anclados aparecen en la lista Anclados, que está justo debajo de la lista de Recientes.
+1. En la lista Recientes de Project Power App, se muestran siempre los proyectos más recientes que haya abierto en la herramienta. Para tener un proyecto a mano, incluso si no aparece en una de las vistas, puede anclar los proyectos si aparecen en la lista de Recientes. Los elementos anclados aparecen en la lista Anclados, que está justo debajo de la lista de Recientes.
 2. En la parte izquierda, sobre las pestañas, seleccionar Mapa del sitio para expandir el panel izquierdo (puede omitir este paso si ya está expandido).
 3. En el panel izquierdo, seleccionar Recientes y, después, seleccionar el icono de chincheta junto al proyecto que quiera anclar.
 4. El proyecto aparece ahora en Anclados y el icono de chincheta junto a él en la lista de Recientes, cambia. Selecciónar nuevamente para desanclar el elemento.
@@ -46,11 +46,11 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto y la c
 3. El proyecto desaparece de la lista de Anclados. Aún puede examinar el proyecto, buscarlo o abrirlo desde cualquier vista que lo muestre.
 
 ### Tarea 5. Agregar tareas y tareas de Resumen.
-1. Seleccionar Agregar nueva tarea y escribir un nombre de tarea. Luego, presione Entrar.
-2. Escribir otro nombre de tarea y presionar entrar de nuevo hasta que tenga una lista completa de tareas.
+1. Seleccionar Agregar nueva tarea y escribir un nombre de tarea. Luego, presionar Entrar.
+2. Escribir otro nombre de tarea y presionar entrar de nuevo hasta tener una lista completa de tareas.
 3. Para aplicar sangría a las tareas, en tareas de Resumen, seleccionar los tres puntos verticales que se hallan por el nombre de la tarea y elegir crear subtarea.
 - Sugerencias:
-- Para seleccionar más de una tarea, seleccione una tarea, mantenga presionada la tecla Ctrl y, a continuación, seleccione otra tarea.
+- Para seleccionar más de una tarea, seleccionar una tarea, mantener presionada la tecla Ctrl y, a continuación, seleccionar otra tarea.
 - También puede elegir promover subtarea para desplazar tareas desde tareas de resumen.
 
 ### Tarea 6. Asignar tareas

@@ -23,7 +23,7 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 ### Tarea 1. Abrir el archivo de Project titulado “Ejercicio Modulo 7” y realizar las siguientes actividades:
 1.	Anotar la duración y el costo del proyecto.
 2.	Agregar un recurso genérico llamado Pintor con costo de 80 pesos por persona, al 200%.
-3.	Asignar a este recurso la tarea 15.
+3.	Asignar este recurso la tarea 15.
 4.	Anotar la duración y el costo del proyecto.
 5.	Agregar la Pintura con un costo de 40 pesos por galón.
 6.	Asignar a ese recurso a la tarea 15. 

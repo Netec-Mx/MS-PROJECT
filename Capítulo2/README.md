@@ -13,7 +13,7 @@ Al finalizar la práctica, será capaz de:
 ![diagrama1](../images/2.0.jpg)
 
 ## Duración aproximada:
-- 30 minutos.
+- 35 minutos.
 
 ## Datos de Acceso:
 Se envía la IP, usuario y credencial para el acceso al escritorio remoto.

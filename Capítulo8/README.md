@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 8
+# Práctica 8. Ajustar el cronograma inicial
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 1
+# Práctica 1. Aportes de project a la Dirección de Proyectos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

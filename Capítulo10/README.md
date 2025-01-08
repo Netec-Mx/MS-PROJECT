@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 10
+# Práctica 10. Cronograma final
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

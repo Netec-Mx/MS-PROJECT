@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 3
+# Práctica 3. Crear un nuevo proyecto
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

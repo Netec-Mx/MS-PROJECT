@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 4
+# Práctica 4. Creación de la EDT
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

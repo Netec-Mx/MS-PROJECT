@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 2
+# Práctica 2. Introducción a Project 2019
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

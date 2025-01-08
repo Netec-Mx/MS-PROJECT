@@ -1,4 +1,4 @@
-# Práctica 2. Introducción a Project 2019
+# Práctica 2. Introducción a Project 2024
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

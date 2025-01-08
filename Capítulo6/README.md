@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 6
+# Práctica 6. Recursos del Proyecto
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 11
+# Práctica 11a. Informes e impresiones
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

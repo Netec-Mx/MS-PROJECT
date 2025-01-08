@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 7
+# Práctica. 7 Estimaciones de los paquetes de trabajo
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

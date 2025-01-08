@@ -68,3 +68,4 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 6.	Actualice las tareas de análisis y planeación al 100% de avance en el documento maestro y observe como se modifican en el archivo “Ejercicio Modulo 12. Inauguración”
 
 ### Resultado esperado
+![imagen resultado](../images/12.2.jpg)

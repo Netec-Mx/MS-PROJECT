@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 5
+# Práctica 5. Relación de Dependencias
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

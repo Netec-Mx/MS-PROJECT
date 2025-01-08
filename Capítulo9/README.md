@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 9
+# Práctica 9. Nivelación de Recursos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

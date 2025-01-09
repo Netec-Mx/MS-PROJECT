@@ -1,4 +1,4 @@
-# Ejercicio Capítulo 13
+# Práctica 13. Planner
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

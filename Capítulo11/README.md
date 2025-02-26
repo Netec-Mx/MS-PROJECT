@@ -1,4 +1,4 @@
-# Práctica 11a. Informes e impresiones
+# Práctica 11.1 Informes e impresiones
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

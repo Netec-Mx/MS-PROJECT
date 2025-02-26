@@ -1,4 +1,4 @@
-# Práctica 11.1 Informes e impresiones
+# Práctica 11.1. Informes e impresiones
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:
@@ -39,7 +39,7 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ![imagen resultado](../images/11.2.jpg)
 
-# Práctica 11b. Múltiples proyectos
+# Práctica 11.2. Múltiples proyectos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, será capaz de:

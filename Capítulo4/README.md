@@ -26,4 +26,4 @@ Se envía la IP, usuario y credencial para el acceso al escritorio remoto.
 
 ### Resultado esperado
 
-![imagen resultado](../images/4.jpg)
+![imagen resultado](../images/5.jpg)

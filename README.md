@@ -15,5 +15,5 @@ Este curso está diseñado para orientar el conocimiento y práctica del partici
  - [Capítulo 9. Nivelación de recursos.](./Capítulo9/README.md)
  - [Capítulo 10. Cronograma final.](./Capítulo10/README.md)
  - [Capítulo 11. Informes e impresiones.](./Capítulo11/README.md)
- - [Capítulo 12. Múltiples proyectos.](./Capítulo12/README.md)
+ - [Capítulo 12. Novedades en Project 2024.](./Capítulo12/README.md)
  - [Capítulo 13. Project para la web.](./Capítulo13/README.md)
